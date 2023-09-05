@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohan_nag23" target="blank"><img src="https://img.shields.io/twitter/follow/sohan_nag23?logo=twitter&style=for-the-badge" alt="sohan_nag23" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Remote Sensing and ML applications in River Dynamics**
+- 👯 I’m looking to collaborate on **Remote Sensing and ML applications in Earth Science especially in Geomorphic changes and River Dynamics**
 
 - 📫 How to reach me **sohannag23@gmailcom**
 
