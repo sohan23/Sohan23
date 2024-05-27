@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Nag</h1>
 <h3 align="center">MS in Geology, specializes</h3>
 
-- 🌱 I’m currently learning **GEE Map, TensorFlow and other spatial programming frameworks**
+- 🌱 I’m currently learning **SAR data processing and other spatial programming frameworks**
 
 - 👯 I’m looking to collaborate on **Remote Sensing and ML applications in Earth Observation Processes**
 
