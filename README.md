@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohan Nag</h1>
-<h3 align="center">MS in Geology, specializes</h3>
+<h3 align="center">MS in Geology, specializes in Satellite Remote Sensing and Machine Learning methods</h3>
 
 - 🌱 I’m currently learning **SAR data processing and other spatial programming frameworks**
 
-- 👯 I’m looking to collaborate on **Remote Sensing and ML applications in Earth Observation Processes**
+- 👯 I’m looking to collaborate on **a research group in the field of Remote Sensing and ML applications in Earth Observation Processes**
 
 - 📫 How to reach me **workspacesohan@gmail.com**
+
+- ⚡ Fun fact **Mapping of riverbed, oceans are called Bathymetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
