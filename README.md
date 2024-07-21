@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **a research group in the field of Remote Sensing and ML applications in Earth Observation Processes**
 
-- 📫 How to reach me **workspacesohan@gmail.com**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **Mapping of riverbed, oceans are called Bathymetry**
 
