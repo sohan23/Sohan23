@@ -7,7 +7,7 @@
 
 - 📫 How to reach me 
 
-- ⚡ Fun fact **Mapping of riverbed, oceans are called Bathymetry**
+- ⚡ Fun fact **Mapping of riverbed, oceans is called Bathymetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
