@@ -21,7 +21,7 @@ I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and
 - **Remote Sensing**: Optical & Radar Data Processing (SAR), DEM creation
 - **GIS Software**: ArcGIS, QGIS
 - **Data Visualization**: Geomorphological Mapping (ArcGIS, QGIS, Python), Seismic & GPS Data (GMT)
-- **Seismic Data Processing**: ObsPy, SAC, TauP, FOCMEC
+- **Seismic Data Processing**: ObsPy, [SAC](https://ds.iris.edu/files/sac-manual/), TauP, FOCMEC
 
 ---
 
