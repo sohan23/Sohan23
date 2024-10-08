@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohan23)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sohan23.Sohan23)
 
+Hello there! 
 I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and **Geospatial Analysis**. My focus is on **Earth Sciences**, utilizing **Machine Learning** and advanced data processing for **Fluvial Geomorphology** and **Seismic Analysis**. Passionate about using **InSAR** and **LiDAR** technologies, I aim to contribute to cutting-edge research in environmental and geospatial sciences.
 
 ---
