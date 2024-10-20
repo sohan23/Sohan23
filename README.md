@@ -100,7 +100,7 @@ I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and
 
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66b8d84cb64402e052797ad5?variant=light)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b8d84cb64402e052797ad5?variant=light&roadmaps=git-github%2Cai-data-scientist%2Cpython%2Csql" alt="roadmap.sh"/></a>
 ---
 
 ### Connect with Me!
