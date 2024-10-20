@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sohan23?style=social)](https://github.com/sohan23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohan23)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sohan23.Sohan23)
-[![roadmap.sh](https://roadmap.sh/card/wide/66b8d84cb64402e052797ad5?variant=light)](https://roadmap.sh)
+
 Hello there! 
 I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and **Geospatial Analysis**. My focus is on **Earth Sciences**, utilizing **Machine Learning** and advanced data processing for **Fluvial Geomorphology** and **Seismic Analysis**. Passionate about using **InSAR** and **LiDAR** technologies, I aim to contribute to cutting-edge research in environmental and geospatial sciences.
 
@@ -98,6 +98,9 @@ I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and
 - **Cooking**: Developed an interest in precision and creativity in the kitchen.
 - **Science Quizzing**: Former district quiz champion, staying sharp with scientific and critical thinking.
 
+
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66b8d84cb64402e052797ad5?variant=light)](https://roadmap.sh)
 ---
 
 ### Connect with Me!
