@@ -56,6 +56,7 @@ I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and
 - **Techniques**: NDWI/MNDWI for water body extraction, empirical algorithms for turbidity and TDS estimation, seasonal analysis
 
 ### Master's Thesis: *Impact of Sand Mining on the Morphology of the Yamuna River* (2022-2023)
+**Repository**: [Sand Mining Impact Analysis](https://github.com/sohan23/Git-Repo-Sand-Mining-Impact-Analysis.git)
 - **Objective**: Analyze sand mining effects on river morphology using satellite data and machine learning
 - **Findings**: 
   - Spatial-temporal degradation in sand bars and increased channel braiding
