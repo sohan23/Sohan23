@@ -139,6 +139,7 @@ I am **Sohan Nag**, a Geologist specializing in **Remote Sensing**, **GIS**, and
 
 ### Connect with Me!
 
+[![Website](https://img.shields.io/badge/Website-NeuralSpace-green?style=flat-square&logo=google-chrome)](https://neuralspace.sohan23.page)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohan23)  
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-lightgrey?style=flat-square&logo=github)](https://github.com/sohan23)  
 [![Email](https://img.shields.io/badge/Email-workspacesohan%40gmail.com-red?style=flat-square&logo=gmail)](mailto:workspacesohan@gmail.com)
